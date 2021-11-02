@@ -1,0 +1,15 @@
+{
+    "name": "antonio/antonio-flores",
+    "autoload": {
+        "psr-4": {
+            "Antonio\\AntonioFlores\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "antonio flores",
+            "email": "wanllyf@gmail.com"
+        }
+    ],
+    "require": {}
+}
